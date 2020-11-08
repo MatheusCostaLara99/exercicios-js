@@ -36,6 +36,3 @@ function marcador(pontuacao){
 }
 
 console.log(marcador(pontuacao))
-
-
-
